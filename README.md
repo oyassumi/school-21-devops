@@ -8,8 +8,6 @@ My projects in the DevOps branch of School 21.
 
 ---
 
-## 📊 Project Status
-
 | Project | Status |
 |--------|--------|
 | D01 Linux | 200 XP, 100% |
