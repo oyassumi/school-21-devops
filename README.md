@@ -4,7 +4,7 @@
 
 ---
 
-![DevOps Banner]([https://github.com/oyassumi/school-21-devops/blob/main/linux.png?raw=true)
+![DevOps Banner](https://github.com/oyassumi/school-21-devops/blob/main/linux.png?raw=true)
 
 ---
 
