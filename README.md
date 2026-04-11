@@ -1,6 +1,6 @@
 # DevOps Branch
 
-> My projects in the DevOps branch of School 21.
+My projects in the DevOps branch of School 21.
 
 ---
 
