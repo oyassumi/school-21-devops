@@ -5,7 +5,7 @@
 
 **Вывод команды cat /etc/issue**
 
-![Вывод команды cat /etc/issue](screenshot_part1.png)
+![Вывод команды cat /etc/issue](images/screenshot_part1.png)
 
 ## Part 2. Создание пользователя
 
