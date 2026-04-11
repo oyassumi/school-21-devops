@@ -4,7 +4,7 @@
 
 ---
 
-![DevOps Banner](https://raw.githubusercontent.com/Hasuk1/School-21-DevOps_branch/main/assets/banner.png)
+![DevOps Banner]([https://github.com/oyassumi/school-21-devops/blob/main/linux.png?raw=true)
 
 ---
 
