@@ -15,7 +15,7 @@
 
 **Создание пользователя командой useradd**
 
-![Создание пользователя командой useradd](screenshot_part2.png)
+![Создание пользователя командой useradd](images/screenshot_part2.png)
 
 ## Part 3. Настройка сети ОС
 
@@ -31,13 +31,13 @@
 
 **Скриншот с пингом удаленных хостов 1.1.1.1 и ya.ru**
 
-![Скриншот с пингом удаленных хостов 1.1.1.1 и ya.ru](screenshot_part3.png)
+![Скриншот с пингом удаленных хостов 1.1.1.1 и ya.ru](images/screenshot_part3.png)
 
 ## Part 4. Обновление ОС
 
 **Скриншот с сообщением об отсутствии обновлений**
 
-![Скриншот с сообщением об отсутствии обновлений](screenshot_part4.png)
+![Скриншот с сообщением об отсутствии обновлений](images/screenshot_part4.png)
 
 ## Part 5. Использование команды sudo
 
@@ -45,13 +45,13 @@
 
 **Скриншот с изменённым hostname**
 
-![Скриншот с изменённым hostname](screenshot_part5.png)
+![Скриншот с изменённым hostname](images/screenshot_part5.png)
 
 ## Part 6. Установка и настройка службы времени
 
 **Скриншот с корректным временем и выводом команды NTPSynchronized=yes:timedatectl show**
 
-![Скриншот с корректным временем и выводом команды NTPSynchronized=yes:timedatectl show](screenshot_part6.png)
+![Скриншот с корректным временем и выводом команды NTPSynchronized=yes:timedatectl show](images/screenshot_part6.png)
 
 ## Part 7. Установка и использование текстовых редакторов
 
@@ -59,61 +59,61 @@
 
 **Скриншот редактора Nano с содержимым файла перед закрытием**
 
-![Скриншот редактора Nano с содержимым файла перед закрытием](screenshot_part7_nano_save.png)
+![Скриншот редактора Nano с содержимым файла перед закрытием](images/screenshot_part7_nano_save.png)
 
 - В Vim нажала Esc → :wq → Enter.
 
 **Скриншот редактора Vim с содержимым файла перед закрытием**
 
-![Скриншот редактора Vim с содержимым файла перед закрытием](screenshot_part7_vim_save.png)
+![Скриншот редактора Vim с содержимым файла перед закрытием](images/screenshot_part7_vim_save.png)
 
 - В mcedit  нажала F2  → Enter → F10.
 
 **Скриншот редактора Mcedit с содержимым файла перед закрытием**
 
-![Скриншот редактора Mcedit с содержимым файла перед закрытием](screenshot_part7_mcedit_save.png)
+![Скриншот редактора Mcedit с содержимым файла перед закрытием](images/screenshot_part7_mcedit_save.png)
 
 - В nano для выхода без сохранения изменений нажала Ctrl+X → N.
 
 **Скриншот редактора Nano с содержимым файла после редактирования**
 
-![Скриншот редактора Nano с содержимым файла после редактирования](screenshot_part7_nano_unsaved.png)
+![Скриншот редактора Nano с содержимым файла после редактирования](images/screenshot_part7_nano_unsaved.png)
 
 - В Vim нажала Esc → :q! → Enter.
 
 **Скриншот редактора Vim с содержимым файла после редактирования**
 
-![Скриншот редактора Vim с содержимым файла после редактирования](screenshot_part7_vim_unsaved.png)
+![Скриншот редактора Vim с содержимым файла после редактирования](images/screenshot_part7_vim_unsaved.png)
 
 - В mcedit F10 → No
 
 **Скриншот редактора Mcedit с содержимым файла после редактирования**
 
-![Скриншот редактора Mcedit с содержимым файла после редактирования](screenshot_part7_mcedit_unsaved.png)
+![Скриншот редактора Mcedit с содержимым файла после редактирования](images/screenshot_part7_mcedit_unsaved.png)
 
 **Скриншот редактора Nano с поиском слов**
 
-![Скриншот редактора Nano с поиском слов](screenshot_part7_nano_search.png)
+![Скриншот редактора Nano с поиском слов](images/screenshot_part7_nano_search.png)
 
 **Скриншот редактора Nano с заменой слов**
 
-![Скриншот редактора Nano с заменой слов](screenshot_part7_nano_replace.png)
+![Скриншот редактора Nano с заменой слов](images/screenshot_part7_nano_replace.png)
 
 **Скриншот редактора Vim с поиском слов**
 
-![Скриншот редактора Vim с поиском слов](screenshot_part7_vim_search.png)
+![Скриншот редактора Vim с поиском слов](images/screenshot_part7_vim_search.png)
 
 **Скриншот редактора Vim с заменой слов**
 
-![Скриншот редактора Vim с заменой слов](screenshot_part7_vim_replace.png)
+![Скриншот редактора Vim с заменой слов](images/screenshot_part7_vim_replace.png)
 
 **Скриншот редактора Mcedit с поиском слов**
 
-![Скриншот редактора Mcedit с поиском слов](screenshot_part7_mcedit_search.png)
+![Скриншот редактора Mcedit с поиском слов](images/screenshot_part7_mcedit_search.png)
 
 **Скриншот редактора Mcedit с заменой слов**
 
-![Скриншот редактора Mcedit с заменой слов](screenshot_part7_mcedit_replace.png)
+![Скриншот редактора Mcedit с заменой слов](images/screenshot_part7_mcedit_replace.png)
 
 
 ## Part 8. Установка и базовая настройка сервиса SSHD
@@ -129,7 +129,7 @@
 
 **Скриншот c выводом команды netstat -tan**
 
-![Скриншот c выводом команды netstat -tan](screenshot_part8.png)
+![Скриншот c выводом команды netstat -tan](images/screenshot_part8.png)
 
 -Объяснение команды netstat -tan:
 
@@ -163,31 +163,31 @@
 
 **Скриншот htop, отсортированный по PID**
 
-![Скриншот htop, отсортированный по PID](screenshot_part9_htop_pid.png)
+![Скриншот htop, отсортированный по PID](images/screenshot_part9_htop_pid.png)
 
 **Скриншот htop, отсортированный по PERCENT_CPU**
 
-![Скриншот htop, отсортированный по PERCENT_CPU](screenshot_part9_htop_cpu.png)
+![Скриншот htop, отсортированный по PERCENT_CPU](images/screenshot_part9_htop_cpu.png)
 
 **Скриншот htop, отсортированный по PERCENT_MEM**
 
-![Скриншот htop, отсортированный по PERCENT_MEM](screenshot_part9_htop_mem.png)
+![Скриншот htop, отсортированный по PERCENT_MEM](images/screenshot_part9_htop_mem.png)
 
 **Скриншот htop, отсортированный по TIME**
 
-![Скриншот htop, отсортированный по TIME](screenshot_part9_htop_time.png)
+![Скриншот htop, отсортированный по TIME](images/screenshot_part9_htop_time.png)
 
 **Скриншот htop, отфильтрованный по процессу sshd**
 
-![Скриншот htop, отфильтрованный по процессу sshd](screenshot_part9_htop_filter_sshd.png)
+![Скриншот htop, отфильтрованный по процессу sshd](images/screenshot_part9_htop_filter_sshd.png)
 
 **Скриншот htop с найденным процессом syslog (поиск)**
 
-![Скриншот htop с найденным процессом syslog (поиск)](screenshot_part9_htop_search_syslog.png)
+![Скриншот htop с найденным процессом syslog (поиск)](images/screenshot_part9_htop_search_syslog.png)
 
 **Скриншот htop с добавленными полями hostname, clock, uptime**
 
-![Скриншот htop с добавленными полями hostname, clock, uptime](screenshot_part9_htop_custom_fields.png)
+![Скриншот htop с добавленными полями hostname, clock, uptime](images/screenshot_part9_htop_custom_fields.png)
 
 
 ## Part 10. Использование утилиты fdisk
@@ -218,29 +218,29 @@
 
 **Запуск команды du**
 
-![Запуск команды du](screenshot_part12_du.png)
+![Запуск команды du](images/screenshot_part12_du.png)
 
 **Вывод размера папок /home, /var, /var/log (в байтах, в человекочитаемом виде**
 
-![Вывод размера папок /home, /var, /var/log (в байтах, в человекочитаемом виде)](screenshot_part12_size.png)
+![Вывод размера папок /home, /var, /var/log (в байтах, в человекочитаемом виде)](images/screenshot_part12_size.png)
 
 **Размер всего содержимого в /var/log (не общее, а каждого вложенного элемента)**
 
-![Размер всего содержимого в /var/log (не общее, а каждого вложенного элемента)](screenshot_part12_dulog.png)
+![Размер всего содержимого в /var/log (не общее, а каждого вложенного элемента)](images/screenshot_part12_dulog.png)
 
 ## Part 13. Установка и использование утилиты ncdu
 
 **Просмотр размера папки /home с помощью утилиты ncdu**
 
-![Просмотр размера папки /home с помощью утилиты ncdu](screenshot_part13_ncdu_home.png)
+![Просмотр размера папки /home с помощью утилиты ncdu](images/screenshot_part13_ncdu_home.png)
 
 **Просмотр размера папки /var с помощью утилиты ncdu**
 
-![Просмотр размера папки /var с помощью утилиты ncdu](screenshot_part13_ncdu_var.png)
+![Просмотр размера папки /var с помощью утилиты ncdu](images/screenshot_part13_ncdu_var.png)
 
 **Просмотр размера папки /var/log с помощью утилиты ncdu**
 
-![Просмотр размера папки /var/log с помощью утилиты ncdu](screenshot_part13_ncdu_varlog.png)
+![Просмотр размера папки /var/log с помощью утилиты ncdu](images/screenshot_part13_ncdu_varlog.png)
 
 
 ## Part 14. Работа с системными журналами
@@ -249,18 +249,18 @@
 
 **Скрин с сообщением о рестарте службы**
 
-![Скрин с сообщением о рестарте службы](screenshot_part14.png)
+![Скрин с сообщением о рестарте службы](images/screenshot_part14.png)
 
 ## Part 15. Использование планировщика заданий CRON
 
 **Записи о выполнении uptime в системных журналах**
 
-![Записи о выполнении uptime в системных журналах](screenshot_part15_log.png)
+![Записи о выполнении uptime в системных журналах](images/screenshot_part15_log.png)
 
 **Список заданий CRON до удаления**
 
-![Список заданий CRON до удаления](screenshot_part15_list_before.png)
+![Список заданий CRON до удаления](images/screenshot_part15_list_before.png)
 
 **Список заданий CRON после удаления**
 
-![Список заданий CRON после удаления](screenshot_part15_list_after.png)
+![Список заданий CRON после удаления](images/screenshot_part15_list_after.png)
