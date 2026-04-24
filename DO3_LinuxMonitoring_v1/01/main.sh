@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ $# -ne 1 ]; then
-	echo "Please enter one parameter"
+	echo "Please enter an one parameter"
 	exit 1
 fi
 
