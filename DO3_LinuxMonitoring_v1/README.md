@@ -6,10 +6,6 @@ Linux basic bash scripting and system research.
 
 ## Contents
 
-1. [Chapter I](#chapter-i)
-2. [Chapter II](#chapter-ii) \
-   2.1. [Bash](#bash) \
-   2.2. [Shell](#shell)
 3. [Chapter III](#chapter-iii) \
    3.1. [Проба пера](#part-1-проба-пера)  
    3.2. [Исследование системы](#part-2-исследование-системы)  
